@@ -17,7 +17,7 @@ Contains the connections between music and dance.
       * Use of the #id selector (details for selector are in the stylesheet website_styles.css)
 
 
-dance_page.html ->
+dance_page.html ->        
 Contains how dance can be defined.
 
     Concepts used:
@@ -26,7 +26,7 @@ Contains how dance can be defined.
       * Use of the #id selector (details for selector are in the stylesheet website_styles.css)
 
 
-experience_page.html ->
+experience_page.html ->        
 Contains my experiences with music and dance.
                                 
     Concepts used:
@@ -37,7 +37,7 @@ Contains my experiences with music and dance.
       * Use of the #id selector (details for selector are in the stylesheet website_styles.css)
 
 
-main_page.html ->
+main_page.html ->        
 Contains the initial page for the webpage.
                                 
     Concepts used:
@@ -47,7 +47,7 @@ Contains the initial page for the webpage.
       * Use of the #id selector (details for selector are in the stylesheet website_styles.css)
 
 
-music_page.html ->
+music_page.html ->        
 Contains how music can be defined.
 
     Concepts used:
@@ -58,13 +58,13 @@ Contains how music can be defined.
 
 
 CSS Files:
-experience_styles.css ->
+experience_styles.css ->        
 Contains the styles used in experience_page.html (converted from the scss file experience_styles.scss)
 
-experience_styles.css.map ->
+experience_styles.css.map ->        
 Contains the map for the experience_styels.scss file (obtained after converting experience_styles.scss into a .css file)
 
-website_style.css ->
+website_style.css ->        
 Contains the styles used in all but experience_page.html.
                                 
     Concepts used:
@@ -76,7 +76,7 @@ Contains the styles used in all but experience_page.html.
 
 
 SCSS Files:
-experience_styles.scss ->
+experience_styles.scss ->        
 Contains the styles for experience_page.html.
                                 
     Concepts used:
