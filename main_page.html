@@ -2,11 +2,49 @@
 <html>
     <head>
         <title>Music and Dance</title>
+        <link rel="stylesheet" href="website_style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+
+            @media (min-width: 901px) {
+                h1::before {
+                    content: "Music and Dance: Always Going Hand in Hand"
+                }    
+            }
+
+            @media (max-width: 900px) {
+                h1::before {
+                    content: "Music and Dance: Inseparable"
+                }
+            }
+            
+        </style>
+
     </head>
+
     <body>
-        <h1>Music and Dance: Always going Hand in Hand</h1>
+        <h1 id="main_header"></h1>
 
         <p>Since the beginning of time, music and dance have been present all around us.
-            Sometimes this prescence is evident, but sometimes it is discrete.</p>
+            Sometimes this prescence is evident, but sometimes it is discrete.
+            There are even times when music and dance do not seem to be together at all.
+            Looking closely, however, one could say there is more than meets the eye.</p>
+
+        <p > Want to find out more about these connections and even hear from a personal experience? 
+            Choose any of the buttons below to get started!</p>
+
+
+        <div style="text-align: center">
+            <button><a href="dance_page.html">Dance</a></button>
+
+            <button><a href="music_page.html">Music</a></button>
+        </div>
+
+        <div style="text-align: center">
+            <button><a href="connections_page.html">Connecting Dance and Music</a></button>
+
+            <button><a href="experience_page.html">An Experience</a></button>
+        </div>
+        
     </body>
 </html>

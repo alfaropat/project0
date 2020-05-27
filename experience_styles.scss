@@ -1,0 +1,17 @@
+$color: violet;
+
+%font_type {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1 {
+    color: $color;
+    @extend %font_type;
+}
+
+div {
+    p {
+        font-size: 18px;
+    }
+}
+
