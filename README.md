@@ -7,7 +7,7 @@ This project is about a webpage that compares music and dance, and how these two
 
 The following contents are seen in each file:
 
-HTML Files:
+HTML Files:        
 connections_page.html ->        
 Contains the connections between music and dance.
 
@@ -57,7 +57,7 @@ Contains how music can be defined.
 
 
 
-CSS Files:
+CSS Files:        
 experience_styles.css ->        
 Contains the styles used in experience_page.html (converted from the scss file experience_styles.scss)
 
@@ -75,7 +75,7 @@ Contains the styles used in all but experience_page.html.
 
 
 
-SCSS Files:
+SCSS Files:        
 experience_styles.scss ->        
 Contains the styles for experience_page.html.
                                 
